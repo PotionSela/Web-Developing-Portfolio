@@ -49,3 +49,7 @@ If you want to contribute to this application, fork the repo to start your own j
 
 ## License
 A section for the license will go here!
+
+
+## Questions
+If you have questions for the creator, you can contact me [here through my GitHub account!](https://github.com/PotionSela) or email me at giselamata27@gmail.com.
