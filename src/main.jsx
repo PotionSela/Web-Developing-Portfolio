@@ -6,3 +6,39 @@ import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import PortfolioPage from './pages/PortfolioPage';
 import ProfilePage from './pages/ProfilePage';
+
+// Router
+const router = createBrowserRouter([
+    // Define the accessible routes
+    {
+        path: '/',
+        element: <App />,
+        errorElement: <Error />,
+        children: [
+            {
+                index: true,
+                element: <HomePage />,
+            },
+            {
+                path: '/About',
+                element: <AboutPage />,
+            },
+            {
+                path: '/Contact',
+                element: <ContactPage />,
+            },
+            {
+                path: '/Portfolio',
+                element: <PortfolioPage />,
+            },
+            {
+                path: '/Profile',
+                element: <ProfilePage />,
+            },
+            {
+                path: '/Error',
+                element: <ErrorPage />,
+            },
+        ]
+    }
+])
