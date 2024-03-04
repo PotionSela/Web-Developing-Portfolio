@@ -26,3 +26,7 @@ A description will go here!
 ## Live Link
 A link of the live site will be placed [here!](https://example.com)
 
+
+## Technologies Used
+Here will be a list of the technologies used to power this application. It will employ X for the application.
+
