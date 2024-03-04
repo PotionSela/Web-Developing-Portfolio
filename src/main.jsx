@@ -1,3 +1,8 @@
+// Importing the ReactDOM
+import ReactDOM from 'react-dom/client';
+// Importing the required imports from 'react-router-dom' to set up application routing behavior
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+
 // Importing the pages so the router will use these
 import App from './App';
 import ErrorPage from './pages/ErrorPage';
