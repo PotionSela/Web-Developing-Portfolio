@@ -38,3 +38,7 @@ If you want to clone the repo and have this application on your local machine, y
 3. In the terminal, type `npm create vite@4.4.1` and select react, and javascript.
 4. Then type, `npm install` to install all the dependencies
 5. After those steps, then you can type `npm run dev` to get the server to run.
+
+
+## Features
+The features of this application will go here!
