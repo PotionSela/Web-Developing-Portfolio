@@ -5,6 +5,7 @@ Web-Developing-Portfolio is a comprehensive showcase of a developer's projects, 
 ## Table of Contents
 - [Description](#description)
 - [Screenshots](#screenshots)
+- [Live Link](#live-link)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Features](#features)
@@ -20,4 +21,8 @@ A description will go here!
 ## Screenshots of application
 ![example-1](./example-goes-here)
 ![example-2](./example-goes-here)
+
+
+## Live Link
+A link of the live site will be placed [here!](https://example.com)
 
