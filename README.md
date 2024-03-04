@@ -42,3 +42,6 @@ If you want to clone the repo and have this application on your local machine, y
 
 ## Features
 The features of this application will go here!
+
+## Contribution Guidelines
+If you want to contribute to this application, fork the repo to start your own journey with this application.
