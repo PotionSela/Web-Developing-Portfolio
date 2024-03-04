@@ -30,3 +30,11 @@ A link of the live site will be placed [here!](https://example.com)
 ## Technologies Used
 Here will be a list of the technologies used to power this application. It will employ X for the application.
 
+
+## Installation
+If you want to clone the repo and have this application on your local machine, you can follow these steps.
+1. Clone the repo: `https://github.com/PotionSela/Web-Developing-Portfolio`
+2. Open VS Code, if you don't have VS Code, install it first.
+3. In the terminal, type `npm create vite@4.4.1` and select react, and javascript.
+4. Then type, `npm install` to install all the dependencies
+5. After those steps, then you can type `npm run dev` to get the server to run.
