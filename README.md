@@ -12,3 +12,8 @@ Web-Developing-Portfolio is a comprehensive showcase of a developer's projects, 
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 - [Questions](#questions)
+
+## Description
+
+A description will go here!
+
