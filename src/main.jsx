@@ -11,7 +11,7 @@ import './index.css';
 
 
 
-// Rendering the RouterProvider component
+// Rendering the Router component
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
         <Router>
