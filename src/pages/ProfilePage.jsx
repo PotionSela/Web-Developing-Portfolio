@@ -10,3 +10,5 @@ const ProfilePage = () => {
         </Layout>
     )
 }
+
+export default ProfilePage
