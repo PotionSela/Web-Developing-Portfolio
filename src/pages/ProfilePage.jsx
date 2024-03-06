@@ -1,4 +1,4 @@
-import placeHolder from '../assets/No-Image-Placeholder.png';
+import ProjectList from "../components/ProjectList";
 import Layout from '../layouts/layout';
 
 const ProfilePage = () => {
