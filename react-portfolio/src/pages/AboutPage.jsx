@@ -1,5 +1,5 @@
 import placeHolder from "../assets/No-Image-Placeholder.png";
-import Layout from "../layouts/layout";
+import Layout from "../Layouts/layout";
 
 const AboutPage = () => {
   return (
@@ -42,12 +42,12 @@ const AboutPage = () => {
               </p>
               <br />
               <p>
-                I'm living in the New England area, and have had spent time in
+                I am living in the New England area, and have had spent time in
                 the West Coast, I enjoy each region for their unique cultures
                 that has definitely influenced my perspective on life and how
-                people work together. I'm excited to get to learn more about
+                people work together. I am excited to get to learn more about
                 coding through new challenges that any full-stack or front-end
-                development job can provide to me. I'm the type of person that
+                development job can provide to me. I am the type of person that
                 works hard to learn a new skill, so being able to constantly
                 learn and grow through trial and error is ideal for me.
               </p>
@@ -58,3 +58,5 @@ const AboutPage = () => {
     </Layout>
   );
 };
+
+export default AboutPage;

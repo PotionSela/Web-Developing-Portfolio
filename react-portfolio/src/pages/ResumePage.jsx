@@ -1,5 +1,5 @@
 import ProjectList from "../components/ProjectList";
-import Layout from '../layouts/layout';
+import Layout from '../Layouts/layout';
 
 const ResumePage = () => {
     return (
