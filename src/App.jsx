@@ -4,7 +4,7 @@ import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import HomePage from './pages/HomePage';
 import PortfolioPage from './pages/PortfolioPage';
-import ProfilePage from './pages/ProfilePage';
+import ResumePage from './pages/ResumePage';
 
 const App = () => {
     // 
@@ -32,8 +32,8 @@ const App = () => {
                 />
 
             <Route
-                path='/profile'
-                element={<ProfilePage />}
+                path='/resume'
+                element={<ResumePage />}
                 />
         </Routes>
     )};

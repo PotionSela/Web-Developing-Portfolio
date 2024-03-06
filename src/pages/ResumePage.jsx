@@ -1,7 +1,7 @@
 import ProjectList from "../components/ProjectList";
 import Layout from '../layouts/layout';
 
-const ProfilePage = () => {
+const ResumePage = () => {
     return (
         <Layout>
             <div>
@@ -11,4 +11,4 @@ const ProfilePage = () => {
     )
 }
 
-export default ProfilePage
+export default ResumePage
