@@ -9,7 +9,7 @@ const AboutPage = () => {
           <div className="col-md-12 col-lg-6 mb-3 d-flex justify-content-center">
             <img
               src={placeHolder}
-              alt="Michael Kelly"
+              alt="Gisela Mata"
               className="img-fluid rounded"
               style={{ maxWidth: "100%", height: "auto" }}
             />
